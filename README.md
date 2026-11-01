@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lexeraapp/.github/main/profile/assets/profile-banner.svg" width="100%" alt="Lexera: Learn Turkish the way it is built. An animated word grows from ev to evler to evlerde."/>
+<img src="assets/profile-banner.svg" width="100%" alt="Lexera: Learn Turkish the way it is built. An animated word grows from ev to evler to evlerde."/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/lexeraapp/.github/main/profile/assets/badges/turkish.svg" height="32" alt="Language Turkish"/>
-<img src="https://raw.githubusercontent.com/lexeraapp/.github/main/profile/assets/badges/levels.svg" height="32" alt="Levels A1 to B1"/>
-<img src="https://raw.githubusercontent.com/lexeraapp/.github/main/profile/assets/badges/pwa.svg" height="32" alt="Installable PWA"/>
-<img src="https://raw.githubusercontent.com/lexeraapp/.github/main/profile/assets/badges/offline.svg" height="32" alt="Works offline"/>
-<img src="https://raw.githubusercontent.com/lexeraapp/.github/main/profile/assets/badges/no-account.svg" height="32" alt="No account needed"/>
+<img src="assets/badges/turkish.svg" height="32" alt="Language Turkish"/>
+<img src="assets/badges/levels.svg" height="32" alt="Levels A1 to B1"/>
+<img src="assets/badges/pwa.svg" height="32" alt="Installable PWA"/>
+<img src="assets/badges/offline.svg" height="32" alt="Works offline"/>
+<img src="assets/badges/no-account.svg" height="32" alt="No account needed"/>
 
 <br/><br/>
 
@@ -21,7 +21,7 @@ Short adaptive sessions, spaced review and a vowel harmony engine that makes suf
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/lexeraapp/.github/main/profile/assets/stats.svg" width="100%" alt="3 phases, 60 lessons, 480 words, 6 game types"/>
+<img src="assets/stats.svg" width="100%" alt="3 phases, 60 lessons, 480 words, 6 game types"/>
 
 </div>
 
@@ -42,6 +42,6 @@ Short adaptive sessions, spaced review and a vowel harmony engine that makes suf
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/lexeraapp/.github/main/profile/assets/footer.svg" width="100%" alt="Lexera: Turkish, built from the ground up."/>
+<img src="assets/footer.svg" width="100%" alt="Lexera: Turkish, built from the ground up."/>
 
 </div>
